@@ -191,7 +191,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `document`, `type`, `password`, `status`, `department_id`) VALUES
 (1, 'Mauricio', 'Ledezma', '1002', '2', '$2y$10$Pau0.SIQNokN86uPJ97EMuyfXAztenZvAq4QnaJm/XMe7na4l14NW', '1', 1),
-(2, 'stiv', 'julian', '1004', '1', '$2y$10$.ss650lfrHa7YgyJEkPFluVKttaeDlPjhSj1VZRDP5iejQNbI8uxK', '0', 3),
+(2, 'stiv', 'julian', '1004', '1', '$2y$10$.ss650lfrHa7YgyJEkPFluVKttaeDlPjhSj1VZRDP5iejQNbI8uxK', '1', 3),
 (7, 'asdasa', 'm m', '5555', '2', '$2y$10$.ss650lfrHa7YgyJEkPFluVKttaeDlPjhSj1VZRDP5iejQNbI8uxK', '1', 3),
 (19, 'samuel', 'sanchez', '10452', '1', NULL, '1', 2),
 (20, 'michell', 'gonzalez', '30989', '2', '$2y$10$Nsz4GFtleGovedWmSCsAHORA2rbBvZlSewihk/xk/ptpuEJgDj7nq', '1', 2),
